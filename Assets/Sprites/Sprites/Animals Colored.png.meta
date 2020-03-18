@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: 2c372f7258328f3499d8cb5208876fa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5882750796891283803
+    second: Animals Colored_0
+  - first:
+      213: -864149446898273792
+    second: Animals Colored_1
+  - first:
+      213: -3649344957422974284
+    second: Animals Colored_2
+  - first:
+      213: -1614389764330646628
+    second: Animals Colored_3
+  - first:
+      213: -2784334144314374596
+    second: Animals Colored_4
+  - first:
+      213: -6949328735531689443
+    second: Animals Colored_5
+  - first:
+      213: 7295836810992103320
+    second: Animals Colored_6
+  - first:
+      213: 4540707022854993684
+    second: Animals Colored_7
+  - first:
+      213: -4270352111859514745
+    second: Animals Colored_8
+  - first:
+      213: -5370504479194058472
+    second: Animals Colored_9
+  - first:
+      213: -2572808118456531080
+    second: Animals Colored_10
+  - first:
+      213: 90218433205869567
+    second: Animals Colored_11
+  - first:
+      213: 8055475009555097305
+    second: Animals Colored_12
+  - first:
+      213: 1712970172853914681
+    second: Animals Colored_13
+  - first:
+      213: 1677028468130359482
+    second: Animals Colored_14
+  - first:
+      213: -4303518836532590910
+    second: Animals Colored_15
+  - first:
+      213: 104618196356695781
+    second: Animals Colored_16
+  - first:
+      213: 5492990786438417874
+    second: Animals Colored_17
+  - first:
+      213: -8691619417542905974
+    second: Animals Colored_18
+  - first:
+      213: -6075673942092287235
+    second: Animals Colored_19
+  - first:
+      213: 1395803400450573865
+    second: Animals Colored_20
+  - first:
+      213: -7367460095191094184
+    second: Animals Colored_21
+  - first:
+      213: -3186832852052871836
+    second: Animals Colored_22
+  - first:
+      213: -4970412049550200982
+    second: Animals Colored_23
+  - first:
+      213: -4689596168340511745
+    second: Animals Colored_24
+  - first:
+      213: 3585638738700396097
+    second: Animals Colored_25
+  - first:
+      213: 5543712019002605096
+    second: Animals Colored_26
+  - first:
+      213: -392409608972918285
+    second: Animals Colored_27
+  - first:
+      213: -4336239098884126057
+    second: Animals Colored_28
+  - first:
+      213: -210441789068206913
+    second: Animals Colored_29
+  - first:
+      213: 1131249201261668021
+    second: Animals Colored_30
+  - first:
+      213: -519361885233807876
+    second: Animals Colored_31
+  - first:
+      213: 2186705040574837401
+    second: Animals Colored_32
+  - first:
+      213: 1787174667193874661
+    second: Animals Colored_33
+  - first:
+      213: 5927442288975348586
+    second: Animals Colored_34
+  - first:
+      213: -2754463869744853382
+    second: Animals Colored_35
+  - first:
+      213: -6271707941265120970
+    second: Animals Colored_36
+  - first:
+      213: -6097027796213849274
+    second: Animals Colored_37
+  - first:
+      213: 7154153686694067223
+    second: Animals Colored_38
+  - first:
+      213: -8391050471150229772
+    second: Animals Colored_39
+  - first:
+      213: -8227209775905770321
+    second: Animals Colored_40
+  - first:
+      213: -4026502359013588736
+    second: Animals Colored_41
+  - first:
+      213: -7773284407656996593
+    second: Animals Colored_42
+  - first:
+      213: -9115280498730971794
+    second: Animals Colored_43
+  - first:
+      213: 9044987135724071974
+    second: Animals Colored_44
+  - first:
+      213: 5351698285828855617
+    second: Animals Colored_45
+  - first:
+      213: 3334377421843486612
+    second: Animals Colored_46
+  - first:
+      213: 4440540363940906917
+    second: Animals Colored_47
+  - first:
+      213: -7985839171955619741
+    second: Animals Colored_48
+  - first:
+      213: -1985040420574424695
+    second: Animals Colored_49
+  - first:
+      213: -3789747898630014316
+    second: Animals Colored_50
+  - first:
+      213: 7047082113230940357
+    second: Animals Colored_51
+  - first:
+      213: 9186808614281749286
+    second: Animals Colored_52
+  - first:
+      213: -3530696839536436630
+    second: Animals Colored_53
+  - first:
+      213: 1534332673414356167
+    second: Animals Colored_54
+  - first:
+      213: 431032352894714688
+    second: Animals Colored_55
+  - first:
+      213: 6544370718390983792
+    second: Animals Colored_56
+  - first:
+      213: 1580144465024171521
+    second: Animals Colored_57
+  - first:
+      213: -1326023607072171353
+    second: Animals Colored_58
+  - first:
+      213: -761044818380205791
+    second: Animals Colored_59
+  - first:
+      213: 2767263468070694071
+    second: Animals Colored_60
+  - first:
+      213: 8811615263751491962
+    second: Animals Colored_61
+  - first:
+      213: 3971726205265677663
+    second: Animals Colored_62
+  - first:
+      213: -2789155365890117625
+    second: Animals Colored_63
+  - first:
+      213: 4141451987251752987
+    second: Animals Colored_64
+  - first:
+      213: -6843858622770820115
+    second: Animals Colored_65
+  - first:
+      213: 8211593085841667825
+    second: Animals Colored_66
+  - first:
+      213: 5451982530856981792
+    second: Animals Colored_67
+  - first:
+      213: -4833970069171533084
+    second: Animals Colored_68
+  - first:
+      213: -6359965092137663310
+    second: Animals Colored_69
+  - first:
+      213: 1745681221633775274
+    second: Animals Colored_70
+  - first:
+      213: -3560929709768615773
+    second: Animals Colored_71
+  - first:
+      213: -519213411830278858
+    second: Animals Colored_72
+  - first:
+      213: 3239137285029214803
+    second: Animals Colored_73
+  - first:
+      213: -3384212519097442240
+    second: Animals Colored_74
+  - first:
+      213: -2254904023926354018
+    second: Animals Colored_75
+  - first:
+      213: -7490578454388294658
+    second: Animals Colored_76
+  - first:
+      213: 9026276922513773408
+    second: Animals Colored_77
+  - first:
+      213: 8078470918533740277
+    second: Animals Colored_78
+  - first:
+      213: -9182966197792274979
+    second: Animals Colored_79
+  - first:
+      213: -4909073999099068172
+    second: Animals Colored_80
+  - first:
+      213: -6251145526822064904
+    second: Animals Colored_81
+  - first:
+      213: -654654750669720080
+    second: Animals Colored_82
+  - first:
+      213: 4436294852688832363
+    second: Animals Colored_83
+  - first:
+      213: -2170062519287574087
+    second: Animals Colored_84
+  - first:
+      213: -6006387515290160644
+    second: Animals Colored_85
+  - first:
+      213: -7603118584305231272
+    second: Animals Colored_86
+  - first:
+      213: 5136653912044113890
+    second: Animals Colored_87
+  - first:
+      213: 4642503754419239711
+    second: Animals Colored_88
+  - first:
+      213: -3859642619266847264
+    second: Animals Colored_89
+  - first:
+      213: -3004063089674506500
+    second: Animals Colored_90
+  - first:
+      213: 9049130182474150352
+    second: Animals Colored_91
+  - first:
+      213: 3239982542896795369
+    second: Animals Colored_92
+  - first:
+      213: 3487332648781219907
+    second: Animals Colored_93
+  - first:
+      213: -8461849766774322069
+    second: Animals Colored_94
+  - first:
+      213: 766710103075820631
+    second: Animals Colored_95
+  - first:
+      213: -76085528062455743
+    second: Animals Colored_96
+  - first:
+      213: -2223280412357222854
+    second: Animals Colored_97
+  - first:
+      213: 1052202688149213385
+    second: Animals Colored_98
+  - first:
+      213: 564086692123530633
+    second: Animals Colored_99
+  - first:
+      213: -7971969632399299652
+    second: Animals Colored_100
+  - first:
+      213: 3729132687581477953
+    second: Animals Colored_101
+  - first:
+      213: -857406147295140063
+    second: Animals Colored_102
+  - first:
+      213: 121851841244496717
+    second: Animals Colored_103
+  - first:
+      213: 4193813088717821571
+    second: Animals Colored_104
+  - first:
+      213: 7197931461826022117
+    second: Animals Colored_105
+  - first:
+      213: -6549232699998488101
+    second: Animals Colored_106
+  - first:
+      213: 317434624550632705
+    second: Animals Colored_107
+  - first:
+      213: 530843557354100024
+    second: Animals Colored_108
+  - first:
+      213: 8457949155005120401
+    second: Animals Colored_109
+  - first:
+      213: -1543884755991240412
+    second: Animals Colored_110
+  - first:
+      213: 7082241574391119562
+    second: Animals Colored_111
+  - first:
+      213: -1084180344073725878
+    second: Animals Colored_112
+  - first:
+      213: -4723015225381199709
+    second: Animals Colored_113
+  - first:
+      213: -1957413711111346801
+    second: Animals Colored_114
+  - first:
+      213: 3301435993061061348
+    second: Animals Colored_115
+  - first:
+      213: 5447628060822066972
+    second: Animals Colored_116
+  - first:
+      213: -3409730879944199282
+    second: Animals Colored_117
+  - first:
+      213: 1105127606334989522
+    second: Animals Colored_118
+  - first:
+      213: 2411374371214439514
+    second: Animals Colored_119
+  - first:
+      213: 8777626306156539129
+    second: Animals Colored_120
+  - first:
+      213: 1236897661008920969
+    second: Animals Colored_121
+  - first:
+      213: 1036421929844049055
+    second: Animals Colored_122
+  - first:
+      213: -1712853076886474985
+    second: Animals Colored_123
+  - first:
+      213: 2786752715465015033
+    second: Animals Colored_124
+  - first:
+      213: -6705165386658022165
+    second: Animals Colored_125
+  - first:
+      213: 7147044917225483437
+    second: Animals Colored_126
+  - first:
+      213: -816157376566604188
+    second: Animals Colored_127
+  - first:
+      213: 7207938607959871514
+    second: Animals Colored_128
+  - first:
+      213: -2834592477843424167
+    second: Animals Colored_129
+  - first:
+      213: 6099423893423511395
+    second: Animals Colored_130
+  - first:
+      213: 7776171117074820625
+    second: Animals Colored_131
+  - first:
+      213: -3724523334509853455
+    second: Animals Colored_132
+  - first:
+      213: 7802228218903179856
+    second: Animals Colored_133
+  - first:
+      213: 7023522367607800851
+    second: Animals Colored_134
+  - first:
+      213: -8580234871957270440
+    second: Animals Colored_135
+  - first:
+      213: -5098193429044843865
+    second: Animals Colored_136
+  - first:
+      213: -3939639799517732993
+    second: Animals Colored_137
+  - first:
+      213: 4425821729089262853
+    second: Animals Colored_138
+  - first:
+      213: 115204837078960206
+    second: Animals Colored_139
+  - first:
+      213: 2972074460506512778
+    second: Animals Colored_140
+  - first:
+      213: -4668667637426912579
+    second: Animals Colored_141
+  - first:
+      213: -8058077106569425835
+    second: Animals Colored_142
+  - first:
+      213: -7576290964936459068
+    second: Animals Colored_143
+  - first:
+      213: -1612966080253787324
+    second: Animals Colored_144
+  - first:
+      213: -4073641144458386999
+    second: Animals Colored_145
+  - first:
+      213: -7764263047955829239
+    second: Animals Colored_146
+  - first:
+      213: -6057503079633315339
+    second: Animals Colored_147
+  - first:
+      213: 6282181474621901499
+    second: Animals Colored_148
+  - first:
+      213: 8220355656235558817
+    second: Animals Colored_149
+  - first:
+      213: -4049365729028795722
+    second: Animals Colored_150
+  - first:
+      213: 8568382640995924271
+    second: Animals Colored_151
+  - first:
+      213: -4749244637782056101
+    second: Animals Colored_152
+  - first:
+      213: 1470896455408521427
+    second: Animals Colored_153
+  - first:
+      213: -1452904202667975306
+    second: Animals Colored_154
+  - first:
+      213: -4626969924639818312
+    second: Animals Colored_155
+  - first:
+      213: 4341057571071260889
+    second: Animals Colored_156
+  - first:
+      213: 2185606140256233061
+    second: Animals Colored_157
+  - first:
+      213: 4286115951057731912
+    second: Animals Colored_158
+  - first:
+      213: -3958320230035987370
+    second: Animals Colored_159
+  - first:
+      213: 2094173733577671529
+    second: Animals Colored_160
+  - first:
+      213: 9174972960164375793
+    second: Animals Colored_161
+  - first:
+      213: -3883020472631211075
+    second: Animals Colored_162
+  - first:
+      213: -1798818205917428690
+    second: Animals Colored_163
+  - first:
+      213: -2278991845520683607
+    second: Animals Colored_164
+  - first:
+      213: 9014560478174705907
+    second: Animals Colored_165
+  - first:
+      213: -2205293254484474279
+    second: Animals Colored_166
+  - first:
+      213: 6504632442416315709
+    second: Animals Colored_167
+  - first:
+      213: -1054226328127078994
+    second: Animals Colored_168
+  - first:
+      213: 2528977270611526611
+    second: Animals Colored_169
+  - first:
+      213: -4817859074824433652
+    second: Animals Colored_170
+  - first:
+      213: -7274338185071698056
+    second: Animals Colored_171
+  - first:
+      213: 395890377954431873
+    second: Animals Colored_172
+  - first:
+      213: -2799725220427428759
+    second: Animals Colored_173
+  - first:
+      213: -2059311764067579891
+    second: Animals Colored_174
+  - first:
+      213: -9155596233927947180
+    second: Animals Colored_175
+  - first:
+      213: 2202028518303284193
+    second: Animals Colored_176
+  - first:
+      213: -4504078768192540369
+    second: Animals Colored_177
+  - first:
+      213: -1111840536206889438
+    second: Animals Colored_178
+  - first:
+      213: 2651524516478794355
+    second: Animals Colored_179
+  - first:
+      213: 5403593762896407224
+    second: Animals Colored_180
+  - first:
+      213: 3952885163122456240
+    second: Animals Colored_181
+  - first:
+      213: -4510822730927480775
+    second: Animals Colored_182
+  - first:
+      213: 2307542324025126949
+    second: Animals Colored_183
+  - first:
+      213: -8594246183269405539
+    second: Animals Colored_184
+  - first:
+      213: -8948747531483055868
+    second: Animals Colored_185
+  - first:
+      213: 9062370263548558983
+    second: Animals Colored_186
+  - first:
+      213: -745195551373826736
+    second: Animals Colored_187
+  - first:
+      213: -5981232623918657300
+    second: Animals Colored_188
+  - first:
+      213: 3914938635057558447
+    second: Animals Colored_189
+  - first:
+      213: -300117092809936928
+    second: Animals Colored_190
+  - first:
+      213: 8130161482433242267
+    second: Animals Colored_191
+  - first:
+      213: -2528922198999036697
+    second: Animals Colored_192
+  - first:
+      213: -2363565620431318558
+    second: Animals Colored_193
+  - first:
+      213: -3834352755824384132
+    second: Animals Colored_194
+  - first:
+      213: 2286820991962295577
+    second: Animals Colored_195
+  - first:
+      213: -174168336040413223
+    second: Animals Colored_196
+  - first:
+      213: 546282795376446320
+    second: Animals Colored_197
+  - first:
+      213: 2554936261965001780
+    second: Animals Colored_198
+  - first:
+      213: 8736677017439394995
+    second: Animals Colored_199
+  - first:
+      213: 181296718857581116
+    second: Animals Colored_200
+  - first:
+      213: 6042601933275879988
+    second: Animals Colored_201
+  - first:
+      213: -5669734205466414520
+    second: Animals Colored_202
+  - first:
+      213: -2777307371240119047
+    second: Animals Colored_203
+  - first:
+      213: 6100845775546690633
+    second: Animals Colored_204
+  - first:
+      213: 1909782430170904329
+    second: Animals Colored_205
+  - first:
+      213: -471192855819113975
+    second: Animals Colored_206
+  - first:
+      213: -8018077019968912864
+    second: Animals Colored_207
+  - first:
+      213: -6984362942428280633
+    second: Animals Colored_208
+  - first:
+      213: 2907772259351312344
+    second: Animals Colored_209
+  - first:
+      213: 1278190611281902101
+    second: Animals Colored_210
+  - first:
+      213: -1929339211127769500
+    second: Animals Colored_211
+  - first:
+      213: -8444369642449534328
+    second: Animals Colored_212
+  - first:
+      213: 4954459175081974603
+    second: Animals Colored_213
+  - first:
+      213: -1708303172975119354
+    second: Animals Colored_214
+  - first:
+      213: -6799078126143600564
+    second: Animals Colored_215
+  - first:
+      213: 3563009729933345297
+    second: Animals Colored_216
+  - first:
+      213: 5245015070776147959
+    second: Animals Colored_217
+  - first:
+      213: -5242490764761397781
+    second: Animals Colored_218
+  - first:
+      213: 8029702011879027564
+    second: Animals Colored_219
+  - first:
+      213: 8370609410238750793
+    second: Animals Colored_220
+  - first:
+      213: -6340763765744524541
+    second: Animals Colored_221
+  - first:
+      213: 2207356376035384865
+    second: Animals Colored_222
+  - first:
+      213: -1849553195208739512
+    second: Animals Colored_223
+  - first:
+      213: 987675039650343880
+    second: Animals Colored_224
+  - first:
+      213: 4853396553493076410
+    second: Animals Colored_225
+  - first:
+      213: -359686180316675980
+    second: Animals Colored_226
+  - first:
+      213: 904942317344299998
+    second: Animals Colored_227
+  - first:
+      213: 1511073778584880501
+    second: Animals Colored_228
+  - first:
+      213: -913637532387657748
+    second: Animals Colored_229
+  - first:
+      213: 2730985800824116003
+    second: Animals Colored_230
+  - first:
+      213: -4264735406232062688
+    second: Animals Colored_231
+  - first:
+      213: 3327415101950343629
+    second: Animals Colored_232
+  - first:
+      213: 2590207019591879867
+    second: Animals Colored_233
+  - first:
+      213: -6148954310574440278
+    second: Animals Colored_234
+  - first:
+      213: -4070293222382747759
+    second: Animals Colored_235
+  - first:
+      213: -1826893987242691166
+    second: Animals Colored_236
+  - first:
+      213: -331563640113143501
+    second: Animals Colored_237
+  - first:
+      213: 5063459223773296916
+    second: Animals Colored_238
+  - first:
+      213: -2919755382241827234
+    second: Animals Colored_239
+  - first:
+      213: 4547793599930034210
+    second: Animals Colored_240
+  - first:
+      213: -713615995732391636
+    second: Animals Colored_241
+  - first:
+      213: -1982800376856559733
+    second: Animals Colored_242
+  - first:
+      213: 6435915125913750728
+    second: Animals Colored_243
+  - first:
+      213: -7914179704089980906
+    second: Animals Colored_244
+  - first:
+      213: -9200564765857799928
+    second: Animals Colored_245
+  - first:
+      213: -5386210998067853310
+    second: Animals Colored_246
+  - first:
+      213: 4688268156867474873
+    second: Animals Colored_247
+  - first:
+      213: 1848233376395895127
+    second: Animals Colored_248
+  - first:
+      213: 5002916565696655615
+    second: Animals Colored_249
+  - first:
+      213: 1987184999728380987
+    second: Animals Colored_250
+  - first:
+      213: 5612440570487420058
+    second: Animals Colored_251
+  - first:
+      213: 1796806515555139856
+    second: Animals Colored_252
+  - first:
+      213: 8348437672323989909
+    second: Animals Colored_253
+  - first:
+      213: -3338647990743252206
+    second: Animals Colored_254
+  - first:
+      213: 5626418957742417240
+    second: Animals Colored_255
+  - first:
+      213: 4593213343992043384
+    second: Animals Colored_256
+  - first:
+      213: 3983825760114575181
+    second: Animals Colored_257
+  - first:
+      213: 1771936843376984313
+    second: Animals Colored_258
+  - first:
+      213: -7460740783723848888
+    second: Animals Colored_259
+  - first:
+      213: -5723538839622953969
+    second: Animals Colored_260
+  - first:
+      213: -3002428950125785123
+    second: Animals Colored_261
+  - first:
+      213: 8662014218409301424
+    second: Animals Colored_262
+  - first:
+      213: 1381702823948992738
+    second: Animals Colored_263
+  - first:
+      213: 1908368871279575076
+    second: Animals Colored_264
+  - first:
+      213: 5013189020940765269
+    second: Animals Colored_265
+  - first:
+      213: -7563628367466511781
+    second: Animals Colored_266
+  - first:
+      213: 1598482630592038858
+    second: Animals Colored_267
+  - first:
+      213: 4455484248702268347
+    second: Animals Colored_268
+  - first:
+      213: 2365745561306773010
+    second: Animals Colored_269
+  - first:
+      213: -821069508331604256
+    second: Animals Colored_270
+  - first:
+      213: 1419868099292006432
+    second: Animals Colored_271
+  - first:
+      213: -514552948660222816
+    second: Animals Colored_272
+  - first:
+      213: -1753566271483708911
+    second: Animals Colored_273
+  - first:
+      213: -6412542445796824852
+    second: Animals Colored_274
+  - first:
+      213: -451814672165277120
+    second: Animals Colored_275
+  - first:
+      213: -2398203651702071152
+    second: Animals Colored_276
+  - first:
+      213: 280323036423032008
+    second: Animals Colored_277
+  - first:
+      213: -2962029083157659838
+    second: Animals Colored_278
+  - first:
+      213: 1550028338497732581
+    second: Animals Colored_279
+  - first:
+      213: -3681302272241747152
+    second: Animals Colored_280
+  - first:
+      213: 6437484371275090013
+    second: Animals Colored_281
+  - first:
+      213: 4660598026390094895
+    second: Animals Colored_282
+  - first:
+      213: -4751893933888137877
+    second: Animals Colored_283
+  - first:
+      213: -6573167862766595120
+    second: Animals Colored_284
+  - first:
+      213: -796223456168857951
+    second: Animals Colored_285
+  - first:
+      213: -6718798848767168298
+    second: Animals Colored_286
+  - first:
+      213: -8898382282960502461
+    second: Animals Colored_287
+  - first:
+      213: 5945366884496249746
+    second: Animals Colored_288
+  - first:
+      213: -721805941978606517
+    second: Animals Colored_289
+  - first:
+      213: -4627162372443404018
+    second: Animals Colored_290
+  - first:
+      213: -5033933717412956074
+    second: Animals Colored_291
+  - first:
+      213: -5705738489746747776
+    second: Animals Colored_292
+  - first:
+      213: 3172818721892615819
+    second: Animals Colored_293
+  - first:
+      213: 4659667460580024692
+    second: Animals Colored_294
+  - first:
+      213: -4448540799636934275
+    second: Animals Colored_295
+  - first:
+      213: -5882088512027214905
+    second: Animals Colored_296
+  - first:
+      213: -3607157073525520925
+    second: Animals Colored_297
+  - first:
+      213: 2747899208223876983
+    second: Animals Colored_298
+  - first:
+      213: 4258063721230333715
+    second: Animals Colored_299
+  - first:
+      213: 6146027412876604731
+    second: Animals Colored_300
+  - first:
+      213: -6333616274626575431
+    second: Animals Colored_301
+  - first:
+      213: 5941659567338853704
+    second: Animals Colored_302
+  - first:
+      213: -1321238962550639050
+    second: Animals Colored_303
+  - first:
+      213: 1731597618393156880
+    second: Animals Colored_304
+  - first:
+      213: 9124796500100675161
+    second: Animals Colored_305
+  - first:
+      213: 1614308918573955660
+    second: Animals Colored_306
+  - first:
+      213: -1257027756862961538
+    second: Animals Colored_307
+  - first:
+      213: 4140246939909594139
+    second: Animals Colored_308
+  - first:
+      213: -9146856240410697230
+    second: Animals Colored_309
+  - first:
+      213: -8249358262888396634
+    second: Animals Colored_310
+  - first:
+      213: 2373047531733314309
+    second: Animals Colored_311
+  - first:
+      213: 155160243388618952
+    second: Animals Colored_312
+  - first:
+      213: -4528085718583232896
+    second: Animals Colored_313
+  - first:
+      213: 284768136560677782
+    second: Animals Colored_314
+  - first:
+      213: 2977356304294714867
+    second: Animals Colored_315
+  - first:
+      213: 3156289301202727722
+    second: Animals Colored_316
+  - first:
+      213: -8092021215833715857
+    second: Animals Colored_317
+  - first:
+      213: 7975764275663288546
+    second: Animals Colored_318
+  - first:
+      213: -3018579577072726739
+    second: Animals Colored_319
+  - first:
+      213: -8087537207593475871
+    second: Animals Colored_320
+  - first:
+      213: -1030312367748716841
+    second: Animals Colored_321
+  - first:
+      213: -1176864285616981872
+    second: Animals Colored_322
+  - first:
+      213: -2062291579588608581
+    second: Animals Colored_323
+  - first:
+      213: 3686303343444340939
+    second: Animals Colored_324
+  - first:
+      213: 6881670267687215217
+    second: Animals Colored_325
+  - first:
+      213: -826627494053774379
+    second: Animals Colored_326
+  - first:
+      213: 3575192307935040936
+    second: Animals Colored_327
+  - first:
+      213: -1795887687783695706
+    second: Animals Colored_328
+  - first:
+      213: -5302620077969845397
+    second: Animals Colored_329
+  - first:
+      213: -3203024972588657867
+    second: Animals Colored_330
+  - first:
+      213: 8988994010610139523
+    second: Animals Colored_331
+  - first:
+      213: -2567052792064714671
+    second: Animals Colored_332
+  - first:
+      213: 5297009792196320685
+    second: Animals Colored_333
+  - first:
+      213: 4671308902384158773
+    second: Animals Colored_334
+  - first:
+      213: 8810877007181878606
+    second: Animals Colored_335
+  - first:
+      213: -8951727485957732053
+    second: Animals Colored_336
+  - first:
+      213: -4296048217319901581
+    second: Animals Colored_337
+  - first:
+      213: -7993175074399036599
+    second: Animals Colored_338
+  - first:
+      213: 6568057995941717145
+    second: Animals Colored_339
+  - first:
+      213: -5098449404120761935
+    second: Animals Colored_340
+  - first:
+      213: 3348077691522270032
+    second: Animals Colored_341
+  - first:
+      213: 663112859432259106
+    second: Animals Colored_342
+  - first:
+      213: 8847431341569564570
+    second: Animals Colored_343
+  - first:
+      213: -4039125022857780669
+    second: Animals Colored_344
+  - first:
+      213: -763726280121563629
+    second: Animals Colored_345
+  - first:
+      213: -2440752677531604508
+    second: Animals Colored_346
+  - first:
+      213: 2091489565771834360
+    second: Animals Colored_347
+  - first:
+      213: 8198652228587087191
+    second: Animals Colored_348
+  - first:
+      213: -7870169223813876651
+    second: Animals Colored_349
+  - first:
+      213: -1360845698007824915
+    second: Animals Colored_350
+  - first:
+      213: -1317223854041996029
+    second: Animals Colored_351
+  - first:
+      213: 1309233901929881411
+    second: Animals Colored_352
+  - first:
+      213: -7153566799153251560
+    second: Animals Colored_353
+  - first:
+      213: -7895959764584113239
+    second: Animals Colored_354
+  - first:
+      213: -981264793945001282
+    second: Animals Colored_355
+  - first:
+      213: -6416230195936184572
+    second: Animals Colored_356
+  - first:
+      213: -7693815412323704831
+    second: Animals Colored_357
+  - first:
+      213: -3618680795829869994
+    second: Animals Colored_358
+  - first:
+      213: -811337547999514596
+    second: Animals Colored_359
+  - first:
+      213: 7502256063227286191
+    second: Animals Colored_360
+  - first:
+      213: -5016939636584846963
+    second: Animals Colored_361
+  - first:
+      213: -2126834484671767721
+    second: Animals Colored_362
+  - first:
+      213: -6894722309311094979
+    second: Animals Colored_363
+  - first:
+      213: 6983521749271984755
+    second: Animals Colored_364
+  - first:
+      213: -1443241848251358730
+    second: Animals Colored_365
+  - first:
+      213: -1911589313547929958
+    second: Animals Colored_366
+  - first:
+      213: 3985877761558521373
+    second: Animals Colored_367
+  - first:
+      213: 7450728065400009757
+    second: Animals Colored_368
+  - first:
+      213: -699249738989642667
+    second: Animals Colored_369
+  - first:
+      213: 6622949746748211494
+    second: Animals Colored_370
+  - first:
+      213: -3364188277935867769
+    second: Animals Colored_371
+  - first:
+      213: -7906682733155419903
+    second: Animals Colored_372
+  - first:
+      213: -8377056060889973706
+    second: Animals Colored_373
+  - first:
+      213: -1774562269382099402
+    second: Animals Colored_374
+  - first:
+      213: -5051447649817509733
+    second: Animals Colored_375
+  - first:
+      213: 6856562702300391974
+    second: Animals Colored_376
+  - first:
+      213: 380099762247705986
+    second: Animals Colored_377
+  - first:
+      213: -5832737075636517033
+    second: Animals Colored_378
+  - first:
+      213: -1234087134513798746
+    second: Animals Colored_379
+  - first:
+      213: -184453494526878725
+    second: Animals Colored_380
+  - first:
+      213: -8159117937327095379
+    second: Animals Colored_381
+  - first:
+      213: -1653401136639296475
+    second: Animals Colored_382
+  - first:
+      213: 2345068452894586290
+    second: Animals Colored_383
+  - first:
+      213: -8708032674844992419
+    second: Animals Colored_384
+  - first:
+      213: -7124507805922374114
+    second: Animals Colored_385
+  - first:
+      213: -6233407595318207946
+    second: Animals Colored_386
+  - first:
+      213: 5746596690214560250
+    second: Animals Colored_387
+  - first:
+      213: 3921238764263645722
+    second: Animals Colored_388
+  - first:
+      213: -2830393529629903751
+    second: Animals Colored_389
+  - first:
+      213: -7583761377257504884
+    second: Animals Colored_390
+  - first:
+      213: 3294212820182032170
+    second: Animals Colored_391
+  - first:
+      213: -6664047277301501021
+    second: Animals Colored_392
+  - first:
+      213: 7250799215723029181
+    second: Animals Colored_393
+  - first:
+      213: 4535369712521067108
+    second: Animals Colored_394
+  - first:
+      213: -6994684903226265797
+    second: Animals Colored_395
+  - first:
+      213: -2541222887350679638
+    second: Animals Colored_396
+  - first:
+      213: 7327467473138265673
+    second: Animals Colored_397
+  - first:
+      213: 1207186006638975193
+    second: Animals Colored_398
+  - first:
+      213: 5853566125064832336
+    second: Animals Colored_399
+  - first:
+      213: -2050482792510470616
+    second: Animals Colored_400
+  - first:
+      213: -2659544665968119253
+    second: Animals Colored_401
+  - first:
+      213: 9188348438500044446
+    second: Animals Colored_402
+  - first:
+      213: 4843139325154674433
+    second: Animals Colored_403
+  - first:
+      213: 3393756590393607099
+    second: Animals Colored_404
+  - first:
+      213: 8831714935787919766
+    second: Animals Colored_405
+  - first:
+      213: 8709777604749202176
+    second: Animals Colored_406
+  - first:
+      213: -7285378655377390896
+    second: Animals Colored_407
+  - first:
+      213: 6816303812690960738
+    second: Animals Colored_408
+  - first:
+      213: 6782545421883674105
+    second: Animals Colored_409
+  - first:
+      213: -2863093896730795289
+    second: Animals Colored_410
+  - first:
+      213: 8191203881746094913
+    second: Animals Colored_411
+  - first:
+      213: -1178702605761932948
+    second: Animals Colored_412
+  - first:
+      213: -2546986266651863928
+    second: Animals Colored_413
+  - first:
+      213: -2186087318101663125
+    second: Animals Colored_414
+  - first:
+      213: -7428724191683177376
+    second: Animals Colored_415
+  - first:
+      213: -6854525333715447628
+    second: Animals Colored_416
+  - first:
+      213: 9107019857439432874
+    second: Animals Colored_417
+  - first:
+      213: 1115401311592738385
+    second: Animals Colored_418
+  - first:
+      213: -6028632369650241489
+    second: Animals Colored_419
+  - first:
+      213: 486130988427884454
+    second: Animals Colored_420
+  - first:
+      213: -7369591494941194155
+    second: Animals Colored_421
+  - first:
+      213: -533346072701479460
+    second: Animals Colored_422
+  - first:
+      213: -5869582840896785901
+    second: Animals Colored_423
+  - first:
+      213: -1892471926158003269
+    second: Animals Colored_424
+  - first:
+      213: 8920850174264085964
+    second: Animals Colored_425
+  - first:
+      213: -7772481444527075773
+    second: Animals Colored_426
+  - first:
+      213: -291946900837248897
+    second: Animals Colored_427
+  - first:
+      213: -5622757711270999731
+    second: Animals Colored_428
+  - first:
+      213: -3871015205227630306
+    second: Animals Colored_429
+  - first:
+      213: -8311281697136985876
+    second: Animals Colored_430
+  - first:
+      213: -7222722800044151048
+    second: Animals Colored_431
+  - first:
+      213: 1746574222928905167
+    second: Animals Colored_432
+  - first:
+      213: -5842724791103350570
+    second: Animals Colored_433
+  - first:
+      213: -6460094531129121040
+    second: Animals Colored_434
+  - first:
+      213: 5481452262858501827
+    second: Animals Colored_435
+  - first:
+      213: -2183209670098225939
+    second: Animals Colored_436
+  - first:
+      213: -3230287265181306464
+    second: Animals Colored_437
+  - first:
+      213: -5265270430447874121
+    second: Animals Colored_438
+  - first:
+      213: 963141444346334362
+    second: Animals Colored_439
+  - first:
+      213: 2085734722113995247
+    second: Animals Colored_440
+  - first:
+      213: 189849156345906820
+    second: Animals Colored_441
+  - first:
+      213: -653045270213572235
+    second: Animals Colored_442
+  - first:
+      213: 4746829583544265084
+    second: Animals Colored_443
+  - first:
+      213: -2079537943658315572
+    second: Animals Colored_444
+  - first:
+      213: 6881212749756084805
+    second: Animals Colored_445
+  - first:
+      213: -3555905969054567332
+    second: Animals Colored_446
+  - first:
+      213: -886234423690027528
+    second: Animals Colored_447
+  - first:
+      213: -8851388101117816801
+    second: Animals Colored_448
+  - first:
+      213: 1453004006357278421
+    second: Animals Colored_449
+  - first:
+      213: -5949689061829826639
+    second: Animals Colored_450
+  - first:
+      213: 8171484664395391116
+    second: Animals Colored_451
+  - first:
+      213: -3837299463735833023
+    second: Animals Colored_452
+  - first:
+      213: -1043954507576953351
+    second: Animals Colored_453
+  - first:
+      213: 5478909659647765186
+    second: Animals Colored_454
+  - first:
+      213: -2058740367368331574
+    second: Animals Colored_455
+  - first:
+      213: -4123060361465599891
+    second: Animals Colored_456
+  - first:
+      213: 7438075278118960275
+    second: Animals Colored_457
+  - first:
+      213: -794693002552682593
+    second: Animals Colored_458
+  - first:
+      213: 5020377778393131396
+    second: Animals Colored_459
+  - first:
+      213: -6885922406694769325
+    second: Animals Colored_460
+  - first:
+      213: -4894986952526611621
+    second: Animals Colored_461
+  - first:
+      213: -5953643345196606684
+    second: Animals Colored_462
+  - first:
+      213: -3528521517364600851
+    second: Animals Colored_463
+  - first:
+      213: -3819410914958159844
+    second: Animals Colored_464
+  - first:
+      213: -793962650654393323
+    second: Animals Colored_465
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animals Colored_0
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1901
+        width: 573
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae162181554c5ea0800000000000000
+      internalID: -5882750796891283803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals Colored_1
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1913
+        width: 860
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00237c018ace104f0800000000000000
+      internalID: -864149446898273792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals Colored_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 987
+        width: 929
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c939b0010198899e0800000000000000
+      internalID: -1614389764330646628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals Colored_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 328
+        width: 1088
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117efc51a22875b0800000000000000
+      internalID: -5370504479194058472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals Colored_10
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1058
+        width: 785
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774828c5ac8b4cd0800000000000000
+      internalID: -2572808118456531080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

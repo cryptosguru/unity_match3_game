@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 2deb9cfb000351c43ab5ca73dd1411d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3139590038334684883
+    second: Animals_0
+  - first:
+      213: 7980907516002592024
+    second: Animals_1
+  - first:
+      213: -5338332612186525698
+    second: Animals_2
+  - first:
+      213: -4015624487889484488
+    second: Animals_3
+  - first:
+      213: 6388453771393081888
+    second: Animals_4
+  - first:
+      213: -4654102829445103667
+    second: Animals_5
+  - first:
+      213: 7208793168840343675
+    second: Animals_6
+  - first:
+      213: -1443884807514508771
+    second: Animals_7
+  - first:
+      213: 2942697829407079878
+    second: Animals_8
+  - first:
+      213: 4017554563214845880
+    second: Animals_9
+  - first:
+      213: -7553964819866616957
+    second: Animals_10
+  - first:
+      213: 8340081187129261919
+    second: Animals_11
+  - first:
+      213: 2520721209361043804
+    second: Animals_12
+  - first:
+      213: -5242392510919495666
+    second: Animals_13
+  - first:
+      213: -8602310420281792435
+    second: Animals_14
+  - first:
+      213: -860994619500860548
+    second: Animals_15
+  - first:
+      213: 3028007141574014247
+    second: Animals_16
+  - first:
+      213: 4325496841825768954
+    second: Animals_17
+  - first:
+      213: 301008002742590906
+    second: Animals_18
+  - first:
+      213: 6303985549460649939
+    second: Animals_19
+  - first:
+      213: -7284573488482055079
+    second: Animals_20
+  - first:
+      213: -1669167265779290509
+    second: Animals_21
+  - first:
+      213: 1898131307316570828
+    second: Animals_22
+  - first:
+      213: 1113496637887592600
+    second: Animals_23
+  - first:
+      213: 2888026326455171266
+    second: Animals_24
+  - first:
+      213: -4034844312014974767
+    second: Animals_25
+  - first:
+      213: 683684587125322814
+    second: Animals_26
+  - first:
+      213: -1106698183917207676
+    second: Animals_27
+  - first:
+      213: -7641595049061885906
+    second: Animals_28
+  - first:
+      213: -184584969074136399
+    second: Animals_29
+  - first:
+      213: 7329915749623891777
+    second: Animals_30
+  - first:
+      213: -707000029862921988
+    second: Animals_31
+  - first:
+      213: -3815671723595293143
+    second: Animals_32
+  - first:
+      213: -8449818206131669719
+    second: Animals_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animals_0
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1902
+        width: 705
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3b4f6180129b20800000000000000
+      internalID: 3139590038334684883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals_1
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1885
+        width: 788
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156494e911e1ce60800000000000000
+      internalID: 7980907516002592024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals_2
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1047
+        width: 796
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff2dbdd5ce6ae5b0800000000000000
+      internalID: -5338332612186525698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 976
+        width: 909
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835ccffcdc2a548c0800000000000000
+      internalID: -4015624487889484488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animals_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 322
+        width: 1128
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022a3eb8bd858a850800000000000000
+      internalID: 6388453771393081888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

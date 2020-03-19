@@ -37,7 +37,7 @@ public class GridManager : MonoBehaviour
 		int tileY = (int)backgroundTileParent.position.y;
 		int lowestPos = tileY;
 		bool hasFoundEmpty = false;
-		for (int y = tileY; y < tileY + sizeY ; y++)
+		for (int y = tileY; y <= tileY + sizeY ; y++)
 		{
 			GameObject currentTile = GetObjectAtWorldPosition(new Vector2(tileX, y));
 			if(currentTile == null)
@@ -52,11 +52,9 @@ public class GridManager : MonoBehaviour
 			if (hasFoundEmpty)
 			{
 				Debug.DrawLine(currentTile.transform.position, new Vector2(tileX, lowestPos), Color.red, 10);
-				//currentTile.transform.position = new Vector2(tileX, lowestPos);
 				MoveTo(currentTile, new Vector2(tileX, y), new Vector2(tileX, lowestPos));
-				//spawn at the top of the grid
 
-				y = lowestPos-1;
+				y = lowestPos;
 				hasFoundEmpty = false;
 			}
 		}
@@ -92,7 +90,7 @@ public class GridManager : MonoBehaviour
 		Vector3 localStart = backgroundTileParent.InverseTransformPoint(startPosition);
 		Vector3 localTargetPosition = backgroundTileParent.InverseTransformPoint(targetPosition);
 
-		Debug.Log($"MovingObjectFromTo{localStart}to {localTargetPosition}");
+		//Debug.Log($"MovingObjectFromTo{localStart}to {localTargetPosition}");
 
 		grid[(int)localStart.x, (int)localStart.y] = null;
 		grid[(int)localTargetPosition.x, (int)localTargetPosition.y] = tile;

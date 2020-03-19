@@ -72,15 +72,14 @@ public class LinkingSystem : MonoBehaviour
 			}
 		}
 	}
-
 	public void OnRelease()
 	{
 		if (listOfTiles.Count >= minRequiredMatch)
 		{
 			for (int i = 0; i < listOfTiles.Count; i++)
 			{
-				grid.DestroyTile(listOfTiles[i].gameObject, 0.0f);
 				Debug.Log("move down by 1");
+				grid.DestroyTile(listOfTiles[i].gameObject, 0.0f);
 				grid.MoveCollum(listOfTiles[i]);
 			}
 			scoredPoints += listOfTiles.Count;

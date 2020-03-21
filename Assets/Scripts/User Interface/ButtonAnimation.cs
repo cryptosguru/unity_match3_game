@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class ButtonAnimation : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-	private AnimationHandler animationHandler;
+	private AnimationBob animationHandler;
 
 	[Header("ResizeButton")]
 	public bool buttonAnimation;
@@ -15,7 +15,7 @@ public class ButtonAnimation : MonoBehaviour, IPointerEnterHandler, IPointerExit
 
 	private void Start()
 	{
-		animationHandler = GameObject.Find("AnimationHandler").GetComponent<AnimationHandler>();
+		animationHandler = GameObject.Find("AnimationHandler").GetComponent<AnimationBob>();
 	}
 
 	public void Resize(Vector2 size)

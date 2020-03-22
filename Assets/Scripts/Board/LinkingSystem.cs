@@ -59,7 +59,7 @@ public class LinkingSystem : MonoBehaviour
 
 	public void OnEnter(GameObject objectCurrentlySelected)
 	{
-		if (lastObject)
+		if (lastObject && IsColorNearby(objectCurrentlySelected))
 		{
 			if (AvailablePositionAround(objectCurrentlySelected))
 			{

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 972912042812772693}
   - component: {fileID: 3133574252460897430}
   - component: {fileID: -47226498028024153}
+  - component: {fileID: -4102021829269266804}
   - component: {fileID: -1649830605996479527}
   - component: {fileID: 3783321250768424298}
   m_Layer: 0
@@ -126,7 +127,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8973806275738500102}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -143,8 +144,24 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.65, y: 0.65}
-  m_EdgeRadius: 0
+  m_Size: {x: 0.75, y: 0.75}
+  m_EdgeRadius: 0.12
+--- !u!58 &-4102021829269266804
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8973806275738500102}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.47
 --- !u!114 &-1649830605996479527
 MonoBehaviour:
   m_ObjectHideFlags: 0

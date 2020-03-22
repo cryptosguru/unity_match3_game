@@ -26,6 +26,11 @@ public class ButtonAnimation : MonoBehaviour, IPointerEnterHandler, IPointerExit
 		}
 	}
 
+	public void ResetSize()
+	{
+		LeanTween.scale(this.gameObject, endScale, scaleAnimationTime);
+	}
+
 	//<summary>
 	//Button events
 	#region event data

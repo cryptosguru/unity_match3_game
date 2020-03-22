@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 public class LinkingSystem : MonoBehaviour
 {
@@ -72,13 +73,19 @@ public class LinkingSystem : MonoBehaviour
 			}
 		}
 	}
+
+	void OrderTiles()
+	{
+		listOfTiles = listOfTiles.OrderBy(tile => -tile.transform.position.y).ToList();
+	}
 	public void OnRelease()
 	{
+		OrderTiles();
 		if (listOfTiles.Count >= minRequiredMatch)
 		{
 			for (int i = 0; i < listOfTiles.Count; i++)
 			{
-				Debug.Log("move down by 1");
+				Debug.Log("Move Collum");
 				grid.DestroyTile(listOfTiles[i].gameObject, 0.0f);
 				grid.MoveCollum(listOfTiles[i]);
 			}

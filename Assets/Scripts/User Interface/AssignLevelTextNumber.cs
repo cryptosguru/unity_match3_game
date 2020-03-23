@@ -5,12 +5,12 @@ using TMPro;
 
 public class AssignLevelTextNumber : MonoBehaviour
 {
-	GameObject content;
-	int levelCount;
+	public GameObject content;
+	public int levelCount;
 	// Start is called before the first frame update
 	void Start()
     {
-		content = GameObject.Find("Content");
+		content = GameObject.Find("Levels");
 		if (content == null)
 		{
 			Debug.LogError("Couldn't Find GameObject 'content' in " + "AutoAssignLevel.cs"); 
@@ -18,7 +18,7 @@ public class AssignLevelTextNumber : MonoBehaviour
 		foreach (Transform child in content.transform)
 		{
 			levelCount++;
-			child.GetChild(0).GetComponent<TextMeshProUGUI>().text = levelCount.ToString();
+			// child.GetChild(0).GetComponent<TextMeshProUGUI>().text = levelCount.ToString();
 		}
     }
 

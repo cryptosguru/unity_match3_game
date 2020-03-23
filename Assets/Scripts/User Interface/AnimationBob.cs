@@ -7,7 +7,7 @@ public class AnimationBob : MonoBehaviour
 {
 	[Header("Bobbing")]
 	public bool bobbing;
-	private Vector2 startPosition;
+	public Vector2 startPosition;
 	public Vector2 endPosition;
 	public float moveSpeed;
 	bool changeBobDirection = false;
@@ -52,7 +52,8 @@ public class AnimationBob : MonoBehaviour
 		changeBobDirection = !changeBobDirection;
 		if (changeBobDirection)
 		{
-			moveDirection = transform.position + (Vector3)endPosition;
+			Vector3 endPos = new Vector3(endPosition.x, endPosition.y);
+			moveDirection = transform.position + endPos;
 		}
 		else
 		{

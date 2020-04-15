@@ -9,7 +9,6 @@ public class InitializeBlob : MonoBehaviour
 	public bool isSelected;
 	private GridManager grid;
 
-	// Start is called before the first frame update
 	void Start()
     {
 		CreateBlob();
@@ -22,6 +21,5 @@ public class InitializeBlob : MonoBehaviour
 		int currentBlob = Random.Range(0, blobArray.Length);
 		GameObject blob = Instantiate(blobArray[currentBlob], transform.position, Quaternion.identity);		blob.transform.parent = this.transform;
 		blob.name = (blob.name);
-		
 	}
 }

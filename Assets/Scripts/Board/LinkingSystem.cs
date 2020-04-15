@@ -106,9 +106,9 @@ public class LinkingSystem : MonoBehaviour
 
 	bool AvailablePositionAround(GameObject objectCurrentlySelected)
 	{
-		string colorID = objectCurrentlySelected.GetComponentInChildren<BlobBase>().colorID;
+		string selectedColorID = objectCurrentlySelected.GetComponentInChildren<BlobBase>().colorID;
 		bool isSelected = objectCurrentlySelected.GetComponent<InitializeBlob>().isSelected;
-		if (!isSelected && colorID == matchID && clickedObject && IsColorNearby(objectCurrentlySelected) && LastObjectHasMatchID(objectCurrentlySelected))
+		if (!isSelected && selectedColorID == matchID && clickedObject && IsColorNearby(objectCurrentlySelected) && LastObjectHasMatchID(objectCurrentlySelected))
 		{
 			Debug.Log("pressed");
 			return true;
@@ -124,9 +124,13 @@ public class LinkingSystem : MonoBehaviour
 		List<GameObject> neighbours = grid.GetNeighbours(objectCurrentlySelected.transform.position);
 		for (int i = 0; i < neighbours.Count; i++)
 		{
-			if(neighbours[i].GetComponentInChildren<BlobBase>().colorID == matchID)
+			BlobBase blobBase = neighbours[i].GetComponentInChildren<BlobBase>();
+			if(neighbours[i] != null && blobBase != null && blobBase.colorID != null)
 			{
-				return true;
+				if (blobBase.colorID == matchID)
+				{
+					return true;
+				}
 			}
 		}
 		return false;

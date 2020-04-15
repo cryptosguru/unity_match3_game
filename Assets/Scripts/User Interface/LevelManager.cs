@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class LevelManager : MonoBehaviour
 {
-	private List<GameObject> listOfLevels = new List<GameObject>();
-	public GameObject currentLevelPrefab;
+	public List<GameObject> listOfLevels = new List<GameObject>();
+	private GameObject currentLevelPrefab;
 	// Start is called before the first frame update
 
 	public void SelectLevel(int level)

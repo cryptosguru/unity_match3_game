@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class GridManager : MonoBehaviour
 {
+	public bool customGrid;
+	public GameObject customGridParent;
+
 	[Header("Grid Size")]
 	public int sizeX, sizeY;
 	public GameObject[,] grid;
@@ -13,6 +16,7 @@ public class GridManager : MonoBehaviour
 	public Vector2 animateFromPos;
 	[Header("Background Tile")]
 	public GameObject backgroundTilePrefab;
+	public GameObject backgroundTileBlock;
 	private Transform backgroundTileParent;
 
 	public void CreateGrid()
@@ -21,12 +25,31 @@ public class GridManager : MonoBehaviour
 		backgroundTileParent = new GameObject("BackgroundTileParent").transform;
 		backgroundTileParent.transform.position = new Vector2(sizeX - 1, sizeY - 1) / -2f;
 
-		for (int x = 0; x < sizeX; x++)
+		if (!customGrid)
 		{
-			for (int y = 0; y < sizeX; y++)
+			for (int x = 0; x < sizeX; x++)
 			{
-				Vector2 gridPosition = new Vector2(x, y);
-				CreateNewTile(gridPosition, true);
+				for (int y = 0; y < sizeX; y++)
+				{
+					Vector2 gridPosition = new Vector2(x, y);
+					CreateNewTile(gridPosition, true);
+				}
+			}
+		}
+		else
+		{
+			for (int i = 0; i < customGridParent.transform.childCount; i++)
+			{
+				if(customGridParent.transform.GetChild(i).name == "Block")
+				{
+					Vector2 gridPosition = backgroundTileParent.transform.InverseTransformPoint(customGridParent.transform.GetChild(i).transform.position);
+					grid[(int)gridPosition.x, (int)gridPosition.y] = customGridParent.transform.GetChild(i).gameObject;
+				}
+				else
+				{
+					Vector2 gridPosition = backgroundTileParent.transform.InverseTransformPoint(customGridParent.transform.GetChild(i).transform.position);
+					CreateNewTile(gridPosition, true);
+				}
 			}
 		}
 	}
@@ -126,7 +149,6 @@ public class GridManager : MonoBehaviour
 	public List<GameObject> GetNeighbours(Vector2 position)
 	{
 		List<GameObject> neighbours = new List<GameObject>();
-
 		for (int x = -1; x <= 1; x++)
 		{
 			for (int y = -1; y <= 1; y++)
@@ -145,6 +167,7 @@ public class GridManager : MonoBehaviour
 				}
 			}
 		}
+		Debug.Log(neighbours.Count);
 		return neighbours;
 	}
 
@@ -155,7 +178,14 @@ public class GridManager : MonoBehaviour
 			Debug.LogWarning("object was outside grid");
 			return null;
 		}
-		return grid[x, y];
+		if(grid[x, y] != null)
+		{
+			return grid[x, y];
+		}
+		else
+		{
+			return null;
+		}
 	}
 
 	public GameObject GetObjectAtWorldPosition(Vector2 position)

@@ -34,7 +34,6 @@ public class AnimationBob : MonoBehaviour
 			RotateToPosition();
 		}
 	}
-
 	public void MoveToPosition()
 	{
 		ChangeMoveDirection();

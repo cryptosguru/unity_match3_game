@@ -90,6 +90,7 @@ public class LinkingSystem : MonoBehaviour
 				grid.MoveCollum(listOfTiles[i]);
 			}
 			scoredPoints += listOfTiles.Count;
+			PlayReleaseSound();
 		}
 		for (int i = 0; i < listOfTiles.Count; i++)
 		{
@@ -97,6 +98,29 @@ public class LinkingSystem : MonoBehaviour
 		}
 		clickedObject = false;
 		ClearLists();
+	}
+
+	public GameObject[] releaseSFX;
+	private int lastEffect;
+	void PlayReleaseSound()
+	{
+		var curEffect = Random.Range(0, releaseSFX.Length);
+		if(curEffect != lastEffect)
+		{
+			releaseSFX[curEffect].GetComponent<AudioSource>().Play();
+		}
+		else
+		{
+			curEffect = Random.Range(0, releaseSFX.Length);
+			PlayReleaseSound();
+		}
+		lastEffect = curEffect;
+	}
+
+	public GameObject hoverSFX;
+	void PlayHoverSound()
+	{
+		hoverSFX.GetComponent<AudioSource>().Play();
 	}
 
 	public void OnExit(GameObject objectCurrentlySelected)

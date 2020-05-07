@@ -95,6 +95,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bobbing: 1
+  startPosition: {x: 0, y: 0}
   endPosition: {x: 0, y: 0.3}
   moveSpeed: 3
   wiggle: 1
@@ -502,6 +503,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bobbing: 0
+  startPosition: {x: 0, y: 0}
   endPosition: {x: 0, y: 0}
   moveSpeed: 0
   wiggle: 1
@@ -550,6 +552,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6826680011250897033}
   - component: {fileID: 6826680011250897034}
+  - component: {fileID: 6832525265265450986}
   - component: {fileID: 6826680011250897035}
   - component: {fileID: 6826680011250897032}
   - component: {fileID: 1977591648}
@@ -591,6 +594,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6826680011250897038}
   m_CullTransparentMesh: 0
+--- !u!114 &6832525265265450986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6826680011250897038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e002fe23fc970489d5625001bbc780, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &6826680011250897035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -673,6 +688,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 0
+      - m_Target: {fileID: 6832525265265450986}
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1977591648
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -702,6 +728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bobbing: 0
+  startPosition: {x: 0, y: 0}
   endPosition: {x: 0, y: 0}
   moveSpeed: 0
   wiggle: 1
@@ -1595,6 +1622,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bobbing: 0
+  startPosition: {x: 0, y: 0}
   endPosition: {x: 0, y: 0}
   moveSpeed: 0
   wiggle: 1
@@ -1849,6 +1877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bobbing: 0
+  startPosition: {x: 0, y: 0}
   endPosition: {x: 0, y: 0}
   moveSpeed: 0
   wiggle: 1

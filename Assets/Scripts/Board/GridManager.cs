@@ -38,10 +38,10 @@ public class GridManager : MonoBehaviour
 		}
 		else
 		{
-			foreach(Component child in customGridParent.GetComponentsInChildren(typeof(BlockTile)))
-			{
-				//child.transform.localPosition;
-			}
+			//foreach(Component child in customGridParent.GetComponentsInChildren(typeof(BlockTile)))
+			//{
+			//	//child.transform.localPosition;
+			//}
 
 			for (int i = 0; i < customGridParent.transform.childCount; i++)
 			{

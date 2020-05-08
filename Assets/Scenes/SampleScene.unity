@@ -18513,7 +18513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d01252f4d9617441ad7f8f4463209b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  customGrid: 0
+  customGrid: 1
   customGridParent: {fileID: 814592560}
   sizeX: 5
   sizeY: 5

@@ -19,7 +19,8 @@ public class LinkingSystem : MonoBehaviour
 
 	private GridManager grid;
 
-	private int scoredPoints;
+	[HideInInspector]
+	public int scoredPoints { get; set; }
 	private GameObject lastObject;
 	private string matchID;
 	private bool clickedObject;

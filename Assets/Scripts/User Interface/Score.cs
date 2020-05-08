@@ -11,4 +11,9 @@ public class Score : MonoBehaviour
     {
 		number.text = link.GetCurrentPoints().ToString();
     }
+
+	void ResetCurrentGameScore()
+	{
+		link.scoredPoints = 0;
+	}
 }

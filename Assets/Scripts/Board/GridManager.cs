@@ -38,11 +38,17 @@ public class GridManager : MonoBehaviour
 		}
 		else
 		{
+			foreach(Component child in customGridParent.GetComponentsInChildren(typeof(BlockTile)))
+			{
+				//child.transform.localPosition;
+			}
+
 			for (int i = 0; i < customGridParent.transform.childCount; i++)
 			{
 				if(customGridParent.transform.GetChild(i).name == "Block")
 				{
-					Vector2 gridPosition = backgroundTileParent.transform.InverseTransformPoint(customGridParent.transform.GetChild(i).transform.position);
+					Vector3 childWorldPosition = customGridParent.transform.GetChild(i).transform.position;
+					Vector2 gridPosition = backgroundTileParent.transform.InverseTransformPoint(childWorldPosition);
 					grid[(int)gridPosition.x, (int)gridPosition.y] = customGridParent.transform.GetChild(i).gameObject;
 				}
 				else
@@ -60,7 +66,7 @@ public class GridManager : MonoBehaviour
 		int tileY = (int)backgroundTileParent.position.y;
 		int lowestPos = tileY;
 
-		Debug.Log("lowestPosition " + lowestPos);
+		//Debug.Log("lowestPosition " + lowestPos);
 		bool foundEmptyTile = false;
 		for (int y = tileY; y <= tileY + sizeY; y++)
 		{
@@ -167,7 +173,7 @@ public class GridManager : MonoBehaviour
 				}
 			}
 		}
-		Debug.Log(neighbours.Count);
+		//Debug.Log(neighbours.Count);
 		return neighbours;
 	}
 

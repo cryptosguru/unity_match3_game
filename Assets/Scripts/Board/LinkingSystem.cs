@@ -5,7 +5,6 @@ using System.Linq;
 
 public class LinkingSystem : MonoBehaviour
 {
-
 	[Header("Line Renderer Gameobject")]
 	public LineRenderer line;
 

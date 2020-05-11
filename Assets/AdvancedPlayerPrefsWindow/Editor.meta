@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: eaa6a7496d50f40cf9a7cd1ef7d2c30b
+labels:
+- Cloud
+- Config
+- Editor
+- Experience
+- Highscore
+- Highscores
+- Levels
+- Manager
+- Persistent
+- Player
+- PlayerPrefs
+- PlayerPrefsEditor
+- PlayerPrefsManager
+- PlayerPrefsWindow
+- Prefs
+- Rejected
+- Remote
+- Save
+- Settings
+- Utility
+- Window
+- playerPrefs
+folderAsset: yes
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

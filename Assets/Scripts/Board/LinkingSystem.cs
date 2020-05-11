@@ -11,6 +11,9 @@ public class LinkingSystem : MonoBehaviour
 	[Header("Modify Match Rules")]
 	public int minRequiredMatch;
 
+	[Header("Saving")]
+	public EndlessHighscore endlessHighscore;
+
 	//--------------------------//
 
 	private List<Vector2> listOfPostions = new List<Vector2>();
@@ -37,6 +40,14 @@ public class LinkingSystem : MonoBehaviour
 	public int GetCurrentPoints()
 	{
 		return scoredPoints;
+	}
+
+	void SaveEndlessHighscore()
+	{
+		if(GetCurrentPoints() > PlayerPrefs.GetInt("EndlessModeHighScore"))
+		{
+			endlessHighscore.SaveCurrentScore();
+		}
 	}
 
 	private void Update()
@@ -90,6 +101,7 @@ public class LinkingSystem : MonoBehaviour
 				grid.MoveCollum(listOfTiles[i]);
 			}
 			scoredPoints += listOfTiles.Count;
+			SaveEndlessHighscore();
 			PlayReleaseSound();
 		}
 		for (int i = 0; i < listOfTiles.Count; i++)

@@ -10,7 +10,7 @@ public class MusicController : MonoBehaviour
     void Start()
     {
 		PlaySong();
-    }
+	}
 
 	int randomSongNumber = 0;
 	void PlaySong()

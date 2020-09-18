@@ -22922,6 +22922,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[4].m_Target
       value: 
       objectReference: {fileID: 925525781}
+    - target: {fileID: 6826680011234755705, guid: 532eb3ddd4287754b9a2c97e02661dbc,
+        type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6826680011665076404, guid: 532eb3ddd4287754b9a2c97e02661dbc,
         type: 3}
       propertyPath: m_Name

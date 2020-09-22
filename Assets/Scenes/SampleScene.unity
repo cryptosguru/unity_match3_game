@@ -6086,7 +6086,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 5.56
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -22874,7 +22874,7 @@ PrefabInstance:
     - target: {fileID: 1386854704453899906, guid: 532eb3ddd4287754b9a2c97e02661dbc,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 186.2
+      value: 95
       objectReference: {fileID: 0}
     - target: {fileID: 1386854704453899906, guid: 532eb3ddd4287754b9a2c97e02661dbc,
         type: 3}
@@ -22926,6 +22926,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Interactable
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6826680011234755711, guid: 532eb3ddd4287754b9a2c97e02661dbc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6826680011250897033, guid: 532eb3ddd4287754b9a2c97e02661dbc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -250.2
       objectReference: {fileID: 0}
     - target: {fileID: 6826680011665076404, guid: 532eb3ddd4287754b9a2c97e02661dbc,
         type: 3}
@@ -23042,11 +23052,21 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 6826680013001029308, guid: 532eb3ddd4287754b9a2c97e02661dbc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -109.2
+      objectReference: {fileID: 0}
     - target: {fileID: 6826680013001029311, guid: 532eb3ddd4287754b9a2c97e02661dbc,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1445416850}
+    - target: {fileID: 6826680013067524874, guid: 532eb3ddd4287754b9a2c97e02661dbc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 26.800034
+      objectReference: {fileID: 0}
     - target: {fileID: 6826680013067524885, guid: 532eb3ddd4287754b9a2c97e02661dbc,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
